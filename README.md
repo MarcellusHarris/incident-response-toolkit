@@ -78,11 +78,21 @@ prefix.
 
 ## Diagram
 
+
+
 The included `docs/collection-flow.png` is a placeholder for a diagram showing
-how the tool operates (collects data → writes to output → optionally zips →
+how the tool operates (collects data → writes t
+o output → optionally zips →
 optionally uploads to S3). Replace it with your own diagram for clarity.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE)
 file for details.
+
+
+
+## Diagram
+
+![Collection Flow Diagram](collection-flow.png)
+
