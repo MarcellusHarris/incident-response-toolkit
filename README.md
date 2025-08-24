@@ -1,5 +1,7 @@
 # Incident Response Toolkit
 
+![Collection Flow Diagram](collection-flow.png)
+
 The **Incident Response Toolkit** is a cross‑platform script that helps you collect
 key forensic artifacts from a host during an incident. It is designed to run on
 Windows, Linux and macOS and gathers system information, running processes,
