@@ -78,15 +78,6 @@ If `--zip` is used, the directory is compressed into `<timestamp>.zip`. If
 `--s3-bucket` is specified, the ZIP file is uploaded to S3 under the given
 prefix.
 
-## Diagram
-
-
-
-The included `docs/collection-flow.png` is a placeholder for a diagram showing
-how the tool operates (collects data → writes t
-o output → optionally zips →
-optionally uploads to S3). Replace it with your own diagram for clarity.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE)
