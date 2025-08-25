@@ -87,5 +87,5 @@ file for details.
 
 ## Diagram
 
-![Collection Flow Diagram](collection-flow.png)
+[Collection Flow Diagram](collection-flow.png)
 
